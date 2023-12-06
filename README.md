@@ -1,1 +1,1 @@
-# Automation_Testing_Java_Selenium_WebDriver_with _SDET_QA Automation
+# Automation Testing Selenium WebDriver with Java
